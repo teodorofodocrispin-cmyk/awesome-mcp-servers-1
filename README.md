@@ -346,6 +346,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://api.intelica.dev/static/logo.png" alt="Intelica Logo" height="14"/> [Intelica](https://api.intelica.dev) - Competitive intelligence MCP server with AI-powered market analysis, Intelica Moat Index (IMI) scoring, competitive graph (3,600+ nodes), and autonomous webhook alerts. x402 micropayments from $0.05 per analysis, no API key required.
+- <img src="https://api.veradata.dev/static/logo.png" alt="VeraData Logo" height="14"/> [VeraData](https://api.veradata.dev) - LATAM compliance MCP server: sanctions screening against OFAC+UN+EU+UK (59k+ entries), KYB bundles for CO/MX/BR/CL/PE (registry + sanctions + risk narrative), and real-time central bank rates (TRM, TIIE, Selic, UF, dólar blue). x402 micropayments, no API key required.
 
 <br />
 
